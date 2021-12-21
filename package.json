@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/hamzaatalif/googleauth-nodejs#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "mongoose": "^5.11.0",
+    "morgan": "^1.10.0"
   }
 }
