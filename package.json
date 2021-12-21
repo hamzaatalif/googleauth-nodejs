@@ -1,0 +1,30 @@
+{
+  "name": "googleauth-nodejs",
+  "version": "1.0.0",
+  "description": "Google auth implementation in nodejs.",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzaatalif/googleauth-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "google",
+    "oauth",
+    "mongodb",
+    "login",
+    "signup"
+  ],
+  "author": "Hamza Imranist (https://imranist.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzaatalif/googleauth-nodejs/issues"
+  },
+  "homepage": "https://github.com/hamzaatalif/googleauth-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
